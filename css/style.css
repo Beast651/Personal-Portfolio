@@ -355,12 +355,12 @@ h3.my-profession
 {
     content: '';
     position: absolute;
-    height: 80px;
-    width: 80px;
+    height: 78px;
+    width: 78px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: 24px;
-    bottom: 45px;
+    right: 30px;
+    bottom: 68px;
 }
 .home-img::before
 {
@@ -370,8 +370,8 @@ h3.my-profession
     width: 80px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
-    left: 24px;
-    top: -45px;
+    left: 33px;
+    top: -51px;
 }
 .home .home-img img
 {
