@@ -55,6 +55,10 @@
   height: 30px;
   width: 30px;
   border-radius: 50%;
+  cursor: pointer;
+}
+.style-switcher .colors span:hover {
+  opacity: 0.8;
 }
 .style-switcher .color-1 {
   background: #05445e;
